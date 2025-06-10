@@ -1,0 +1,6 @@
+A = INPUT
+B = INPUT
+X = XOR(A, B)
+Y = NAND(A, B)
+Z = NOR(A, B)
+OUTPUT = X
